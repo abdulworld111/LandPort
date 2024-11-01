@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043809981614",
+    "project_id": "landport-3bc55",
+    "storage_bucket": "landport-3bc55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043809981614:android:c44aa88d1c7c4b42d5c93f",
+        "android_client_info": {
+          "package_name": "com.sasorian.LandPortApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAzAeu6CooeRhpzbuigsWprLkSEfyiZ_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
